@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=Program&message=C++&color=green"/>
+<img src="https://img.shields.io/static/v1?label=Program&message=Computer VISION&color=pink"/>
 <a href="你的CSDN主页链接"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 </p>
