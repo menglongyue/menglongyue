@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=menglongyue&show_icons=true&theme=dark&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=menglongyue&theme=dark&layout=compact)
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/menglongyue&right_color=red" />
+
+[![menglongyue's github activity graph](https://activity-graph.herokuapp.com/graph?username=menglongyue&theme=dracula)](https://github.com/menglongyue/github-readme-activity-graph)
