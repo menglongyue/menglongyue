@@ -4,13 +4,13 @@
 </h3>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2aa788&center=true&lines=3rd+Year+Engineering+Student;Machine+Learning+Enthusiast;Interested+in+Devops;Always+learning"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2aa788&center=true&lines=CV+AI+Engineering;Computer+Vision+Enthusiast;Interested+in+Machine+Learning;Always+learning"></a>
 </p>
 
 <div align="center">
   
   [![Gmail Badge](https://img.shields.io/badge/-email:1269950801@qq.com-c19934?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1269950801@qq.com)](mailto:1269950801@qq.com)
-  [![Insta Badge](https://img.shields.io/badge/-ghoshted-DD2A7B?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ghoshted/)](https://instagram.com/ghoshted/)
+  [![Insta Badge](https://img.shields.io/badge/-menglongyue-DD2A7B?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ghoshted/)](https://instagram.com/ghoshted/)
   [![Linkedin Badge](https://img.shields.io/badge/-menglongyue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menglongyue/)](https://www.linkedin.com/in/menglongyue/)
   [![Medium Badge](https://img.shields.io/badge/-@hollis23-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/holliswe)](https://medium.com/@hollis23)
   
