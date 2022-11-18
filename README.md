@@ -10,7 +10,7 @@
 <div align="center">
   
   [![Gmail Badge](https://img.shields.io/badge/-email:1269950801@qq.com-c19934?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1269950801@qq.com)](mailto:1269950801@qq.com)
-  [![Insta Badge](https://img.shields.io/badge/-menglongyue-DD2A7B?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ghoshted/)](https://instagram.com/ghoshted/)
+  [![Insta Badge](https://img.shields.io/badge/-menglongyue-DD2A7B?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/menglongyue/)](https://instagram.com/menglongyue/)
   [![Linkedin Badge](https://img.shields.io/badge/-menglongyue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menglongyue/)](https://www.linkedin.com/in/menglongyue/)
   [![Medium Badge](https://img.shields.io/badge/-@hollis23-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/holliswe)](https://medium.com/@hollis23)
   
